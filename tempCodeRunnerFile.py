@@ -11,7 +11,3 @@ print(df.head())
 # Statistici descriptive (media, min, max, etc.)
 print("\nStatistici descriptive:\n")
 print(df.describe())
-
-#Analiza exploratorie a datelor
-
-
